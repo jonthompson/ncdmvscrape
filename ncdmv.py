@@ -3,7 +3,6 @@
 import requests
 import datetime
 import time
-import os
 
 startdaysout = 7 
 checkdays = 14
